@@ -1,2 +1,2 @@
 
-<?php include("home (2).html");
+<?php include("home.html");
